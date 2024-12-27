@@ -1,0 +1,16 @@
+x="12345"
+#print(x+5)
+y=1111
+z = str(y)
+#print(z+5)
+print("VALUES OF X,Y,Z are ")
+print(x)
+print(y)
+print(z)
+print("DATATYPE OF X,Y,Z are ")
+print("X TYPE IS = ")
+print(type(x))
+print("Y TYPE IS = ")
+print(type(y))
+print("Z TYPE IS = ")
+print(type(z))

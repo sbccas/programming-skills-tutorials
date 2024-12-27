@@ -1,0 +1,84 @@
+1. WAP to calculate factorial of a given number
+
+2. WAP to find largest of two given numbers
+
+3. WAP to read marks of 5 subjects and display percentage
+
+4. WAP to read radius and display area of the circle (pi * r * r)
+
+5. WAP to find largest of 3 given numbers.
+
+6. WAP to display data type (using type())
+   of integer, float, complex, string and boolean variable.
+
+7. WAP to show the use of + for string concatenation.
+   Also use single line and multiline comments in this prog.
+
+8. WAP to take user input and display appropriate message.
+	input	message
+	1		Good Morning
+	2		Good Afternoon
+	3		Good Evening
+	4		Have a nice day!
+	other	wrong input
+
+9. WAP that stores ur address in a multiline string.
+	display the same.
+
+10. WAP that uses UDF to print "Python is awesome".
+
+11. WAP that uses UDF to check even/odd number.
+
+12. WAP to find square of a given number using UDF.
+
+13. WAP to read a number and display its table. (e.g. table of 5)
+
+14. Read user's age and display appropriate message for driving eligibility.
+
+15. Using while loop print following pattern.
+	1
+	2 2
+	3 3 3
+	4 4 4 4
+	5 5 5 5 5
+
+16. Program to read a string from user and perform following:
+	1. Display length of the string
+	2. Display the string in reverse
+	3. Display first 5 letters
+	4. Display last 5 letters
+
+17. Program to read two strings (s1 & s2), and check if s2 is found in s1.
+
+18. Read user name and surname in two diff. strings, concate them and display.
+
+19. Display "Python is fun" in the center with * as fill character.
+
+20. Program to read two strings (s1 & s2), and count the occurence of s2 in s1. 
+
+21. Program to read 3 strings (s1,s2 & s3), and replace s2 by s3 in given string(s1).
+    s1="I am happy, you are happy, we are happy"
+	s2 = "happy"
+	s3 = "sad"
+
+22. Read a string, display the same in upper and lower case. 
+
+23. Find exponent of given number (user input).
+    (Ask user to enter base number & exponent number)
+
+24. Program to find square root of a given number using ** operator.
+
+25. WAP to swap values of two variables.
+
+26. WAP to Generate a Random Number
+
+27. WAP to Convert Celsius To Fahrenheit (fahrenheit = celsius x 1.8 + 32)
+
+28. WAP to check if the number is positive, negative or zero?
+
+29. WAP to check if the given number is odd or even?
+
+30. WAP to Check if given String is Palindrome or Not.
+
+
+

@@ -1,0 +1,55 @@
+//TITLE : WAP to ADD 2 MATRIX and Display Result
+
+#include <stdio.h>
+#include <conio.h>
+
+void main()
+{
+int i,j;
+int a[3][3],b[3][3],add[3][3];
+clrscr();
+    printf("\nADD DATA TO MATRIX A :\n");
+    for (i=0;i<3;i++)
+    {
+       for (j=0;j<3;j++)
+       {
+	    printf("Enter element for a[%d][%d]=",i,j);
+	    scanf("%d",&a[i][j]);
+       }
+     }
+     printf("\nADD DATA TO MATRIX B :\n");
+    for (i=0;i<3;i++)
+    {
+       for (j=0;j<3;j++)
+       {
+	    printf("Enter element for b[%d][%d]=",i,j);
+	    scanf("%d",&b[i][j]);
+       }
+     }
+     printf("\n MATRIX A : \t\t MATRIX B :\t\t = MATRIX C \n ");
+    for (i=0;i<3;i++)
+    {
+       for (j=0;j<3;j++)
+       {
+	    printf("%3d\t",a[i][j]);
+
+       }
+	for (j=0;j<3;j++)
+       {
+	    printf("%3d\t",b[i][j]);
+
+       }
+	 for (j=0;j<3;j++)
+       {
+	    add[i][j] = a[i][j] + b[i][j];
+	    printf("%3d",add[i][j]);
+
+       }
+
+       printf("\n");
+     }
+
+
+   getch();
+
+}

@@ -1,0 +1,40 @@
+//TITLE : WAP to STORE and Print ELEMENTS IN
+// 1 D NUMERIC ARRAY OF USER DEFINED SIZE (n)
+
+#include <stdio.h>
+#include <conio.h>
+
+void main ()
+{
+int i,n;
+int a[100];
+clrscr();
+    printf("Please Enter Array Size: ");
+    scanf("%d",&n);
+    // storing data in array
+    for (i=0;i<n;i++)
+    {
+       printf("\nEnter element for a[%d]=",i);
+       scanf("%d",&a[i]);
+     }
+    // printing elements of array
+    for (i=0;i<n;i++)
+    {
+       printf("\n a[%d]=%d",i,a[i]);
+
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

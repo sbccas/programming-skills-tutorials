@@ -32,11 +32,12 @@ If you're new to C programming, start with the basics:
 
 Learn the fundamentals of C and Python programming:
 
-- [UNIT-1: Introduction](2_Notes/104_CPPM_Unit_1.pdf)
-- [UNIT-2: Input/Output Statements and Operators:](2_Notes/104_CPPM_Unit_2.pdf)
-- [UNIT-3: Decision Making statements :](2_Notes/104_CPPM_Unit_3.pdf)
-- [UNIT-4: Iterative statements :](2_Notes/104_CPPM_Unit_4.pdf)
-- [UNIT-5: Concepts of Arrays and pointer](2_Notes/104_CPPM_Unit_5.pdf)
+- [Revision: Array Topics](2_Notes/104_CPPM_Unit_5.pdf)
+- [UNIT-1: Array Structure Union and User Defined Function:](2_Notes/204_PS_Unit_1_Arrays_Structure_Union_and_User_defined_function.pdf)
+- [UNIT-2: Python Fundamentals:](2_Notes/204_PS_Unit_2_Python_Fundamentals.pdf)
+- [UNIT-3: Python_Strings_and_Operators:](2_Notes/204_PS_Unit_3_Python_Strings_and_Operators.pdf)
+- [UNIT-4: Iterative statements:](2_Notes/204_PS_Unit_4_Iterative_Statements.pdf)
+- [UNIT-5: Python Collections and Libraries:](2_Notes/204_PS_Unit_5_Python_collections_and_libraries.pdf)
 
 ## Sample Programs
 

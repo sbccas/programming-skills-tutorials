@@ -71,7 +71,7 @@ If you'd like to read more books to this tutorial repository . You can by:
 ## Contributing
 Please follow our [contribution guidelines](README.md) to get started.
 
-<img src="https://github.com/sbccas/c-programming-tutorials/blob/main/resources/Banner.png" alt="Image" width="Auto" height="Auto">
+![programming skill social media preview](https://github.com/user-attachments/assets/058a08b2-d3c0-4c27-b2c1-34c8985d3447)
 
 Happy coding, and we hope you find these resources helpful on your journey to becoming a proficient C and Python programmer!
 

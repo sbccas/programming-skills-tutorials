@@ -1,5 +1,5 @@
 //TITLE : WAP to Show demo of Recursion using User defined Function
-//        for Sum of N Numbers
+//        for Calculation Sum of N Numbers
 #include <stdio.h>
 #include <conio.h>
 //1. function declaration

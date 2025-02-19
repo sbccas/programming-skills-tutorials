@@ -1,5 +1,18 @@
 #WAP to show demo of COnditional Statements
-"""
+
+#SIMPLE IF DEMO
+x=10
+if(x<10):
+    print("X IS LEES THAN 10")
+
+#IF ELSE DEMO
+x=10
+if(x<10):
+    print("X IS LEES THAN 10")
+else:
+    print("X IS GREATER THAN 10")
+
+#IF ELIF DEMO
 a= 10
 b= 10
 if a<b:
@@ -8,8 +21,7 @@ elif a==b:
     print("Both are Same")
 else:
     print("B is less than A")
-
-    """
+#NESTED IF DEMO
 a= -100
 if a>0:
     print("A is greater than 0")
@@ -36,7 +48,7 @@ if a>0:
 else:
     print("A is less than 0")
     
-        
+
 
                     
 

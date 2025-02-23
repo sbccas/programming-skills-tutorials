@@ -125,4 +125,3 @@ List values: 1 2 3 4 5
 ---
 
 🚀 **Best Practice:** Use f-strings (`f"{variable}"`) for clean and readable formatting.  
-```

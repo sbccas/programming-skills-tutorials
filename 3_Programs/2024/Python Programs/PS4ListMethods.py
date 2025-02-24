@@ -42,7 +42,13 @@ print("SORT ON a")
 print(a)
 a.sort()
 print(a)
-
+#FINDING AN ITEM FROM LIST
+#   ------>>USER ----->> INPUT
+fnd = input("PLEASE ENTER YOUR NAME:")
+if fnd in a:
+    print("YOUR ITEM IS AT : " + str(a.index(fnd)))
+else:
+    print("YOUR ITEM NOT PRESENT")
 
 
 

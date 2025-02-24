@@ -50,7 +50,17 @@ if fnd in a:
 else:
     print("YOUR ITEM NOT PRESENT")
 
-
+# LIST ADVANCE DEMO
+x = input("PLEASE ENTER NAME :")
+if x in a:
+    ind = a.index(x)
+    print("FOUND..AT : " + str(ind))
+    rep = input("ENTER NEW ITEM : ")
+    a.remove(x)
+    a.insert(ind,rep)
+else:
+    print("NOT FOUND")
+print(a)
 
 
 

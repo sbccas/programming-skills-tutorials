@@ -5,7 +5,7 @@
 void main()
 {
 int i,j,k,a[3][3],b[3][3],mul[3][3];
-clrscr();
+//clrscr();
    printf("\nADD DATA TO MATRIX A :\n");
     for (i=0;i<3;i++)
     {
@@ -67,6 +67,6 @@ clrscr();
        }
        printf("\n");
     }
-getch();
+//getch();
 }
 

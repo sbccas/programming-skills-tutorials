@@ -38,6 +38,9 @@ Learn the fundamentals of C and Python programming:
 - [UNIT-3: Python_Strings_and_Operators:](2_Notes/204_PS_Unit_3_Python_Strings_and_Operators.pdf)
 - [UNIT-4: Iterative statements:](2_Notes/204_PS_Unit_4_Iterative_Statements.pdf)
 - [UNIT-5: Python Collections and Libraries:](2_Notes/204_PS_Unit_5_Python_collections_and_libraries.pdf)
+- [Extra Notes: Python Input Function Guide:](2_Notes/inputfunction.md)
+- [Extra Notes: Python Print Function Guide:](2_Notes/printfunction.md)
+- [Extra Notes: Python List Reverse Guide:](2_Notes/listreverse.md)
 
 ## Sample Programs
 

@@ -11,7 +11,8 @@ def lsize():
     for i in list1:
         print(i)
         add+= int(i)
-    return add
+    average=add/len(list1)
+    return add,average
 
-x = lsize()
-print("LENGTH OF LIST IS : ",x)
+x,y = lsize()
+print("SUM and AVERAGE OF LIST : ",x,y)

@@ -7,6 +7,7 @@ list1= [111,222,333,444]
 def lsize():
     global counter
     counter =0
+    print("USING LEN :" ,len(list1))
     for i in list1:
         print(i)
         counter+=1
